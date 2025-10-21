@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "welcome-image",
+      "description": "A vibrant flat lay of healthy foods like fruits, vegetables, and nuts.",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NjA5Mzc1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "healthy food"
+    }
+  ]
+}
